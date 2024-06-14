@@ -1,0 +1,12 @@
+(A) 2024-06-14 Call Mom @phone
+2024-06-14 Buy groceries +Shopping @store
+(B) Review project proposal +Work
+Email team about meeting +Work @email
+x 2024-06-14 2024-06-13 Submit report +Work @email
+(C) 2024-06-14 Plan birthday party +Personal @home
+Plan weekend trip +Leisure
+x 2024-06-14 Clean the garage +Chores @home
+Call Jane about the project +Work @phone
+(A) 2024-06-14 Prepare presentation +Work
+2024-06-14 Call service center @phone
+(D) Finish reading book +Leisure @home
